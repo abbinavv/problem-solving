@@ -16,8 +16,17 @@ only these
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abbinavv/problem-solving/tree/master/0001-two-sum) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abbinavv/problem-solving/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->

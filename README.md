@@ -7,6 +7,7 @@ only these
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abbinavv/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/abbinavv/problem-solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ only these
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abbinavv/problem-solving/tree/master/0014-longest-common-prefix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |

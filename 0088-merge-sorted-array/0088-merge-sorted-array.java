@@ -1,18 +1,19 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-       int indexNums1 = m - 1; 
-        int indexNums2 = n - 1; 
-        int mergedIndex = m + n - 1;
-        while (indexNums2 >= 0) {
-            if (indexNums1 < 0 || nums1[indexNums1] <= nums2[indexNums2]) {
-                nums1[mergedIndex] = nums2[indexNums2]; 
-                indexNums2--; 
-            } else {
-                nums1[mergedIndex] = nums1[indexNums1];
-                indexNums1--; 
-            }
-            mergedIndex--; 
+       int ans[] = new int[m + n];
+
+        for (int i = 0; i < m; i++) {
+            ans[i] = nums1[i];
         }
 
+        for (int i = 0; i < n; i++) {
+            ans[m + i] = nums2[i];
+        }
+
+        Arrays.sort(ans);
+
+        for (int i = 0; i < nums1.length; i++) {
+            nums1[i] = ans[i];
+        }
     }
 }

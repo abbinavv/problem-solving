@@ -22,6 +22,7 @@ only these
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abbinavv/problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abbinavv/problem-solving/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |

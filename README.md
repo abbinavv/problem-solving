@@ -65,4 +65,8 @@ only these
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/abbinavv/problem-solving/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ only these
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abbinavv/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
@@ -58,6 +59,7 @@ only these
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
@@ -70,4 +72,8 @@ only these
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/abbinavv/problem-solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/abbinavv/problem-solving/tree/master/0197-rising-temperature) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

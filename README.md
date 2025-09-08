@@ -15,6 +15,7 @@ only these
 | [0001-two-sum](https://github.com/abbinavv/problem-solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
+| [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ only these
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
@@ -78,4 +80,8 @@ only these
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

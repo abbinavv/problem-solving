@@ -30,6 +30,7 @@ only these
 | [0009-palindrome-number](https://github.com/abbinavv/problem-solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -53,6 +54,7 @@ only these
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -87,4 +89,8 @@ only these
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

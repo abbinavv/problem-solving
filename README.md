@@ -18,11 +18,13 @@ only these
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abbinavv/problem-solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |

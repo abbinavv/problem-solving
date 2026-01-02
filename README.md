@@ -16,6 +16,7 @@ only these
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ only these
 | [0007-reverse-integer](https://github.com/abbinavv/problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abbinavv/problem-solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/abbinavv/problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |

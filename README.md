@@ -18,6 +18,7 @@ only these
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -102,6 +103,7 @@ only these
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +112,8 @@ only these
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

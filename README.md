@@ -17,6 +17,7 @@ only these
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abbinavv/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ only these
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abbinavv/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
@@ -130,4 +132,8 @@ only these
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

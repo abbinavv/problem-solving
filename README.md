@@ -27,6 +27,7 @@ only these
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ only these
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ only these
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -90,12 +93,14 @@ only these
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -126,6 +131,7 @@ only these
 | ------- |
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |

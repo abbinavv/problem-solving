@@ -24,6 +24,7 @@ only these
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/abbinavv/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -149,4 +150,8 @@ only these
 | ------- |
 | [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

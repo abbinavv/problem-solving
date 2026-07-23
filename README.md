@@ -20,6 +20,7 @@ only these
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abbinavv/problem-solving/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abbinavv/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +160,11 @@ only these
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abbinavv/problem-solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

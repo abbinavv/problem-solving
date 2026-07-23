@@ -15,6 +15,7 @@ only these
 | [0001-two-sum](https://github.com/abbinavv/problem-solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abbinavv/problem-solving/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/abbinavv/problem-solving/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
@@ -156,5 +157,6 @@ only these
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abbinavv/problem-solving/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

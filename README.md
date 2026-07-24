@@ -24,6 +24,7 @@ only these
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abbinavv/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/abbinavv/problem-solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/abbinavv/problem-solving/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ only these
 | ------- |
 | [0035-search-insert-position](https://github.com/abbinavv/problem-solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/abbinavv/problem-solving/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 ## Matrix

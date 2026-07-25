@@ -56,6 +56,7 @@ only these
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
+| [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,6 +110,7 @@ only these
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |

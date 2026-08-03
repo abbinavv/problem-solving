@@ -30,6 +30,7 @@ only these
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/abbinavv/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -56,6 +57,7 @@ only these
 | [0168-excel-sheet-column-title](https://github.com/abbinavv/problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -93,6 +95,7 @@ only these
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -134,6 +137,7 @@ only these
 | [0053-maximum-subarray](https://github.com/abbinavv/problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abbinavv/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abbinavv/problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -176,4 +180,16 @@ only these
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

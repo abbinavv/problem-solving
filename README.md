@@ -59,6 +59,7 @@ only these
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abbinavv/problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -192,4 +193,8 @@ only these
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abbinavv/problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ only these
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abbinavv/problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
+| [0566-reshape-the-matrix](https://github.com/abbinavv/problem-solving/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -94,6 +95,7 @@ only these
 | ------- |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abbinavv/problem-solving/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/abbinavv/problem-solving/tree/master/0566-reshape-the-matrix) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,6 +189,7 @@ only these
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abbinavv/problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/abbinavv/problem-solving/tree/master/0566-reshape-the-matrix) |
 ## Minimax
 |  |
 | ------- |

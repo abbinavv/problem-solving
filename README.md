@@ -47,6 +47,7 @@ only these
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -80,6 +81,7 @@ only these
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/abbinavv/problem-solving/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -125,6 +127,7 @@ only these
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abbinavv/problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |

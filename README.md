@@ -39,6 +39,7 @@ only these
 | [1572-matrix-diagonal-sum](https://github.com/abbinavv/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ only these
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ only these
 | ------- |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -201,6 +204,7 @@ only these
 | [0566-reshape-the-matrix](https://github.com/abbinavv/problem-solving/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abbinavv/problem-solving/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/abbinavv/problem-solving/tree/master/1572-matrix-diagonal-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
 | ------- |
@@ -221,4 +225,8 @@ only these
 |  |
 | ------- |
 | [4002-count-valid-sequences](https://github.com/abbinavv/problem-solving/tree/master/4002-count-valid-sequences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

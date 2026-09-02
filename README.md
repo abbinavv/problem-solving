@@ -41,6 +41,7 @@ only these
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abbinavv/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ only these
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abbinavv/problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abbinavv/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [4002-count-valid-sequences](https://github.com/abbinavv/problem-solving/tree/master/4002-count-valid-sequences) |
 ## String
 |  |

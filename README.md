@@ -154,6 +154,7 @@ only these
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/abbinavv/problem-solving/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/abbinavv/problem-solving/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abbinavv/problem-solving/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/abbinavv/problem-solving/tree/master/1068-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/abbinavv/problem-solving/tree/master/1179-game-play-analysis-i) |
 | [1251-average-selling-price](https://github.com/abbinavv/problem-solving/tree/master/1251-average-selling-price) |
 ## Dynamic Programming

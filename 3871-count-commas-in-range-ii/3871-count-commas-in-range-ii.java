@@ -4,7 +4,8 @@ class Solution {
         long pow = 1000;
         long commas = 1;
         while (pow <= n) {
-            ans += (n - pow + 1) * commas;
+            long end = Math.min(n, pow * 1000 - 1);
+            ans += (end - pow + 1) * commas;
             pow *= 1000;
             commas++;
         }

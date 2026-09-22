@@ -95,6 +95,7 @@ only these
 | [0168-excel-sheet-column-title](https://github.com/abbinavv/problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/abbinavv/problem-solving/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/abbinavv/problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -117,6 +118,7 @@ only these
 | [0566-reshape-the-matrix](https://github.com/abbinavv/problem-solving/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abbinavv/problem-solving/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
+| [3498-reverse-degree-of-a-string](https://github.com/abbinavv/problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion

@@ -71,6 +71,7 @@ only these
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/abbinavv/problem-solving/tree/master/0836-rectangle-overlap) |
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abbinavv/problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -252,4 +253,8 @@ only these
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/abbinavv/problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abbinavv/problem-solving/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/abbinavv/problem-solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@ only these
 | [1572-matrix-diagonal-sum](https://github.com/abbinavv/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbinavv/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abbinavv/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@ only these
 | [1642-water-bottles](https://github.com/abbinavv/problem-solving/tree/master/1642-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abbinavv/problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbinavv/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abbinavv/problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbinavv/problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |

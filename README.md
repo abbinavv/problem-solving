@@ -98,6 +98,7 @@ only these
 | [0168-excel-sheet-column-title](https://github.com/abbinavv/problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/abbinavv/problem-solving/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abbinavv/problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/abbinavv/problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -197,6 +198,7 @@ only these
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abbinavv/problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,4 +261,8 @@ only these
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abbinavv/problem-solving/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abbinavv/problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

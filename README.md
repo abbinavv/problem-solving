@@ -40,6 +40,7 @@ only these
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbinavv/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abbinavv/problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abbinavv/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -57,6 +58,7 @@ only these
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abbinavv/problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abbinavv/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abbinavv/problem-solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -152,6 +154,7 @@ only these
 | [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abbinavv/problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |

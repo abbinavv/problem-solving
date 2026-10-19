@@ -38,6 +38,7 @@ only these
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abbinavv/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/abbinavv/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/abbinavv/problem-solving/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abbinavv/problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abbinavv/problem-solving/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbinavv/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abbinavv/problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -153,6 +154,7 @@ only these
 | [0217-contains-duplicate](https://github.com/abbinavv/problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abbinavv/problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abbinavv/problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/abbinavv/problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abbinavv/problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -228,6 +230,7 @@ only these
 | [0268-missing-number](https://github.com/abbinavv/problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/abbinavv/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/abbinavv/problem-solving/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abbinavv/problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |

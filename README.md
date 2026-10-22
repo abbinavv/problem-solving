@@ -96,6 +96,7 @@ only these
 | [0013-roman-to-integer](https://github.com/abbinavv/problem-solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abbinavv/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abbinavv/problem-solving/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/abbinavv/problem-solving/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/abbinavv/problem-solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
@@ -141,6 +142,7 @@ only these
 | [0005-longest-palindromic-substring](https://github.com/abbinavv/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abbinavv/problem-solving/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
@@ -278,4 +280,20 @@ only these
 | [0020-valid-parentheses](https://github.com/abbinavv/problem-solving/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abbinavv/problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abbinavv/problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

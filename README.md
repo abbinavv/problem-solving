@@ -134,6 +134,7 @@ only these
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abbinavv/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/abbinavv/problem-solving/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abbinavv/problem-solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -300,5 +301,6 @@ only these
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abbinavv/problem-solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abbinavv/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

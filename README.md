@@ -146,6 +146,7 @@ only these
 | [0042-trapping-rain-water](https://github.com/abbinavv/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abbinavv/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abbinavv/problem-solving/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/abbinavv/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbinavv/problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -296,4 +297,8 @@ only these
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abbinavv/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/abbinavv/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
